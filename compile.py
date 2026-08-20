@@ -1,1 +1,173 @@
-†™–”@£¨—‰•‡@‰”—–™£@Æ‰•“†™–”@©–¤£‰“m—¨@‰”—–™£@„£¢…£¢@¢@„¢@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£Ô‰¢¢‰•‡Ô–„¤“…â–¤™ƒ…½†™–”@©–¤£‰“m—¨@‰”—–™£@”¥¢ƒ”„@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£Ô‰¢¢‰•‡Ô–„¤“…â–¤™ƒ…½†™–”@©–¤£‰“m—¨K©£¨—…¢@‰”—–™£@M@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£Ô‰¢¢‰•‡Ô–„¤“…â–¤™ƒ…½@@@@Ä£¢…£Ä…†‰•‰£‰–•k@@@@ÄÄâ££…”…•£k]„…†@ƒ–”—‰“…mƒ–‚–“M@@@@¢–¤™ƒ…z@¢£™k@@@@”…”‚…™z@¢£™k@@@@ƒ–—¨“‰‚z@¢£™k@@@@“–„“‰‚z@¢£™k@@@@“•‡—™†§z@¢£™@~@ÉÇèöôğk@@@@“‰‚—™†§z@¢£™@~@ÃÅÅk@@@@£…”—mˆ“˜z@¢£™@~@åÙÅçğğök]z@@@@ÖÂÑÅÃãmÄÁãÁâÅã@~@„¢K£”—m•”…M£…”—mˆ“˜]@@@@„„¢z@“‰¢£­ÄÄâ££…”…•£½@~@­½@@@@{@âãÅ×ÓÉÂ@@@@„„¢K——…•„M@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@âãÅ×ÓÉÂk@@@@@@@@@@@@„…†‰•‰£‰–•~“‰¢£M@@{@•–˜z@Ãôñğ@@@@@@@@@@@@@@@@M@@@@@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M†À“•‡—™†§ĞKâÉÇèÃÖÔ×k@„‰¢—–¢‰£‰–•~âÈÙ]k@@@@@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M†À“‰‚—™†§ĞKâÃÅÅÙäÕk@„‰¢—–¢‰£‰–•~âÈÙ]k@@@@@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M†À“‰‚—™†§ĞKâÃÅÅÙäÕòk@„‰¢—–¢‰£‰–•~âÈÙ]k@@@@@@@@@@@@@@@@]@@@@@@@@@@@@]k@@@@@@@@]@@@@]@@@@{@âèâÉÕ@@@@„„¢K——…•„M@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@âèâÉÕk@Ä£¢…£Ä…†‰•‰£‰–•M†À¢–¤™ƒ…ĞMÀ”…”‚…™Ğ]k@„‰¢—–¢‰£‰–•~âÈÙ]@@@@@@@@]@@@@]@@@@{@âèâÓÉÂ@@@@„„¢K——…•„MÄÄâ££…”…•£MâèâÓÉÂk@Ä£¢…£Ä…†‰•‰£‰–•Mƒ–—¨“‰‚k@„‰¢—–¢‰£‰–•~âÈÙ]]]@@@@{@âèâ×ÙÉÕã@@@@„„¢K——…•„M@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@âèâ×ÙÉÕãk@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•MåÙÅçğğöKâ×ÖÖÓMÃÖÔ×ÓÉâã]k@•–™”“m„‰¢—–¢‰£‰–•~ÒÅÅ×]k@@@@@@@@]@@@@]@@@@{@âèâÓÉÕ@@@@„„¢K——…•„M@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@âèâÓÉÕk@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M@@@@@@@@@@@@@@@@ÖÂÑÅÃãmÄÁãÁâÅãk@@@@@@@@@@@@@@@@„‰¢—–¢‰£‰–•~ÕÅæk@@@@@@@@@@@@@@@@•–™”“m„‰¢—–¢‰£‰–•~ÒÅÅ×k@@@@@@@@@@@@@@@@‚•–™”“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@ƒ–•„‰£‰–•“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@£¨—…~âÅØk@@@@@@@@@@@@@@@@—™‰”™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@@@@@—™‰”™¨~ñk@@@@@@@@@@@@@@@@¢…ƒ–•„™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@@@@@¢…ƒ–•„™¨~ñk@@@@@@@@@@@@@@@@™…ƒ–™„m†–™”£~ÆÂk@@@@@@@@@@@@@@@@™…ƒ–™„m“…•‡£ˆ~øğk@@@@@@@@@@@@@@@@‚“–ƒ’m¢‰©…~óòğğk@@@@@@@@@@@@]k@@@@@@@@]@@@@]@@@@{@ã…”—–™™¨@ƒ–”—‰“…™@¦–™’@†‰“…¢K@@@@†–™@‰@‰•@™•‡…Mñk@ñö]z@@@@@@@@„„¢K——…•„M@@@@@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@@@@@†âèâäãÀ‰Ğk@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M@@@@@@@@@@@@@@@@@@@@„£¢…£m•”…~„¢K£”—m•”…M£…”—mˆ“˜]k@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£ä•’•–¦•Ô…”‚…™ã¨—…½@@@@@@@@@@@@@@@@@@@@„‰¢—–¢‰£‰–•~ÕÅæk@@@@@@@@@@@@@@@@@@@@•–™”“m„‰¢—–¢‰£‰–•~ÒÅÅ×k@@@@@@@@@@@@@@@@@@@@‚•–™”“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@@@@@ƒ–•„‰£‰–•“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@@@@@£¨—…~âÅØk@@@@@@@@@@@@@@@@@@@@—™‰”™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@@@@@@@@@—™‰”™¨~ñk@@@@@@@@@@@@@@@@@@@@¢…ƒ–•„™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@@@@@@@@@¢…ƒ–•„™¨~ñk@@@@@@@@@@@@@@@@@@@@™…ƒ–™„m†–™”£~ÆÂk@@@@@@@@@@@@@@@@@@@@™…ƒ–™„m“…•‡£ˆ~øğk@@@@@@@@@@@@@@@@@@@@‚“–ƒ’m¢‰©…~óòğğk@@@@@@@@@@@@@@@@]k@@@@@@@@@@@@]@@@@@@@@]@@@@{@âèâÔÄÅÃÒ@@@@„„¢K——…•„M@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@âèâÔÄÅÃÒk@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M@@@@@@@@@@@@@@@@„£¢…£m•”…~„¢K£”—m•”…M£…”—mˆ“˜]k@@@@@@@@@@@@@@@@£¨—…~âÅØk@@@@@@@@@@@@@@@@„‰¢—–¢‰£‰–•~ÕÅæk@@@@@@@@@@@@@@@@•–™”“m„‰¢—–¢‰£‰–•~ÒÅÅ×k@@@@@@@@@@@@@@@@‚•–™”“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@ƒ–•„‰£‰–•“m„‰¢—–¢‰£‰–•~ÄÅÓÅãÅk@@@@@@@@@@@@@@@@™…ƒ–™„m†–™”£~ÆÂk@@@@@@@@@@@@@@@@™…ƒ–™„m“…•‡£ˆ~øğk@@@@@@@@@@@@@@@@‚“–ƒ’m¢‰©…~óòğğk@@@@@@@@@@@@@@@@—™‰”™¨~ñk@@@@@@@@@@@@@@@@—™‰”™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@@@@@¢…ƒ–•„™¨~ñk@@@@@@@@@@@@@@@@¢…ƒ–•„™¨m¤•‰£~ÃèÓk@@@@@@@@@@@@]k@@@@@@@@]@@@@]@@@@„„¢z@Æ‰•“@@@@ƒ–”—‰“…m™…¢—–•¢…@~@”¥¢ƒ”„K…§…ƒ¤£…M—‡”~ÉÇèÃÙÃãÓk@„„¢~„„¢]@@@@‰†@ƒ–”—‰“…m™…¢—–•¢…K™ƒ@•–£@‰•@Àğk@ôĞz@@@@@@@@—™‰•£M†Ã–”—‰“…@…™™–™@–ƒƒ¤™…„@¦‰£ˆ@™ƒ@z@Àƒ–”—‰“…m™…¢—–•¢…K™ƒĞ]@@@@@@@@—™‰•£Mƒ–”—‰“…m™…¢—–•¢…K¢£„…™™m™…¢—–•¢…]@@@@…“¢…z@@@@@@@@—™‰•£M†Ã–”—‰“…„@â¤ƒƒ…¢¢†¤““¨@¦‰£ˆ@™ƒz@Àƒ–”—‰“…m™…¢—–•¢…K™ƒĞ]@@@@@@@@—™‰•£MÓ‰•’@Å„‰£‰•‡@KKKK]@@@@@@@@“‰•’…„‰£m„„¢z@“‰¢£­ÄÄâ££…”…•£½@~@­½@@@@@@@@{@âèâÓÉÂ@@@@@@@@“‰•’…„‰£m„„¢K——…•„M@@@@@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@@@@@âèâÓÉÂk@@@@@@@@@@@@@@@@„…†‰•‰£‰–•~“‰¢£M@@{@•–˜z@Ãôñğ@@@@@@@@@@@@@@@@@@@@M@@@@@@@@@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M†À“‰‚—™†§ĞKâÃÅÅÓÒÅç]k@@@@@@@@@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•M†À“‰‚—™†§ĞKâÃÅÅÓÒÅÄ]k@@@@@@@@@@@@@@@@@@@@]@@@@@@@@@@@@@@@@]k@@@@@@@@@@@@]@@@@@@@@]@@@@@@@@“‰•’…„‰£m„„¢K——…•„M@@@@@@@@@@@@ÄÄâ££…”…•£MâèâÓÉÕk@Ä£¢…£Ä…†‰•‰£‰–•MÖÂÑÅÃãmÄÁãÁâÅãk@„‰¢—–¢‰£‰–•~âÈÙ]]@@@@@@@@]@@@@@@@@{@âèâÓÔÖÄ@@@@@@@@“‰•’…„‰£m„„¢K——…•„M@@@@@@@@@@@@ÄÄâ££…”…•£MâèâÓÔÖÄk@Ä£¢…£Ä…†‰•‰£‰–•M†À“–„“‰‚ĞMÀ”…”‚…™Ğ]]]@@@@@@@@]@@@@@@@@{@âèâ×ÙÉÕã@@@@@@@@“‰•’…„‰£m„„¢K——…•„M@@@@@@@@@@@@ÄÄâ££…”…•£M@@@@@@@@@@@@@@@@âèâ×ÙÉÕãk@@@@@@@@@@@@@@@@Ä£¢…£Ä…†‰•‰£‰–•MåÙÅçğğöKâ×ÖÖÓMÓÉÕÒÓÉâã]k@•–™”“m„‰¢—–¢‰£‰–•~ÒÅÅ×]k@@@@@@@@@@@@]@@@@@@@@]@@@@@@@@“‰•’…„‰£m™…¢—–•¢…@~@”¥¢ƒ”„K…§…ƒ¤£…M—‡”~ÉÅæÓk@„„¢~“‰•’…„‰£m„„¢]@@@@@@@@—™‰•£M†Ó‰•’@…„‰£@ƒ–”—“…£…@¦‰£ˆ@™ƒz@À“‰•’…„‰£m™…¢—–•¢…K™ƒĞ]@@@@@@@@—™‰•£M“‰•’…„‰£m™…¢—–•¢…]‰†@mm•”…mm@~~@mm”‰•mmz@@@@ƒ–”—‰“…mƒ–‚–“M@@@@@@@@¢–¤™ƒ…~åÙÅçğğöKâÙÃÓÉÂk@@@@@@@@”…”‚…™~ÈÉk@@@@@@@@ƒ–—¨“‰‚~åÙÅçğğöKÃÖ×èÓÉÂk@@@@@@@@“–„“‰‚~åÙÅçğğöKÓÖÁÄÓÉÂk@@@@]
+from typing import Final
+
+from zoautil_py import datasets as ds  # pyright: ignore[reportMissingModuleSource]
+from zoautil_py import mvscmd  # pyright: ignore[reportMissingModuleSource]
+from zoautil_py.ztypes import (  # pyright: ignore[reportMissingModuleSource]
+    DatasetDefinition,
+    DDStatement,
+)
+
+
+def compile_cobol(
+    source: str,
+    member: str,
+    copylib: str,
+    loadlib: str,
+    langprfx: str = "IGY640",
+    libprfx: str = "CEE",
+    temp_hlq: str = "VREX006",
+):
+
+    OBJECT_DATASET = ds.tmp_name(temp_hlq)
+
+    dds: list[DDStatement] = []
+    # STEPLIB
+    dds.append(
+        DDStatement(
+            "STEPLIB",
+            definition=list(  # noqa: C410
+                (
+                    DatasetDefinition(f"{langprfx}.SIGYCOMP", disposition="SHR"),
+                    DatasetDefinition(f"{libprfx}.SCEERUN", disposition="SHR"),
+                    DatasetDefinition(f"{libprfx}.SCEERUN2", disposition="SHR"),
+                )
+            ),
+        )
+    )
+
+    # SYSIN
+    dds.append(
+        DDStatement(
+            "SYSIN", DatasetDefinition(f"{source}({member})", disposition="SHR")
+        )
+    )
+    # SYSLIB
+    dds.append(DDStatement("SYSLIB", DatasetDefinition(copylib, disposition="SHR")))
+
+    # SYSPRINT
+    dds.append(
+        DDStatement(
+            "SYSPRINT",
+            DatasetDefinition("VREX006.SPOOL(COMPLIST)", normal_disposition="KEEP"),
+        )
+    )
+
+    # SYSLIN
+    dds.append(
+        DDStatement(
+            "SYSLIN",
+            DatasetDefinition(
+                OBJECT_DATASET,
+                disposition="NEW",
+                normal_disposition="KEEP",
+                abnormal_disposition="DELETE",
+                conditional_disposition="DELETE",
+                type="SEQ",
+                primary_unit="CYL",
+                primary="1",
+                secondary_unit="CYL",
+                secondary="1",
+                record_format="FB",
+                record_length="80",
+                block_size="3200",
+            ),
+        )
+    )
+
+    # Temporary compiler work files.
+    for i in range(1, 16):
+        dds.append(
+            DDStatement(
+                f"SYSUT{i}",
+                DatasetDefinition(
+                    dataset_name=ds.tmp_name(temp_hlq),  # pyright: ignore[reportUnknownMemberType]
+                    disposition="NEW",
+                    normal_disposition="KEEP",
+                    abnormal_disposition="DELETE",
+                    conditional_disposition="DELETE",
+                    type="SEQ",
+                    primary_unit="CYL",
+                    primary="1",
+                    secondary_unit="CYL",
+                    secondary="1",
+                    record_format="FB",
+                    record_length="80",
+                    block_size="3200",
+                ),
+            )
+        )
+
+    # SYSMDECK
+    dds.append(
+        DDStatement(
+            "SYSMDECK",
+            DatasetDefinition(
+                dataset_name=ds.tmp_name(temp_hlq),
+                type="SEQ",
+                disposition="NEW",
+                normal_disposition="KEEP",
+                abnormal_disposition="DELETE",
+                conditional_disposition="DELETE",
+                record_format="FB",
+                record_length="80",
+                block_size="3200",
+                primary="1",
+                primary_unit="CYL",
+                secondary="1",
+                secondary_unit="CYL",
+            ),
+        )
+    )
+    dds: Final
+
+    compile_response = mvscmd.execute(pgm="IGYCRCTL", dds=dds)
+    if compile_response.rc not in {0, 4}:
+        print(f"Compile error occured with rc : {compile_response.rc}")
+        print(compile_response.stderr_response)
+    else:
+        print(f"Compiled Successfully with rc: {compile_response.rc}")
+        print("Link Editing ....")
+        linkedit_dds: list[DDStatement] = []
+
+        # SYSLIB
+        linkedit_dds.append(
+            DDStatement(
+                "SYSLIB",
+                definition=list(  # noqa: C410
+                    (
+                        DatasetDefinition(f"{libprfx}.SCEELKEX"),
+                        DatasetDefinition(f"{libprfx}.SCEELKED"),
+                    )
+                ),
+            )
+        )
+
+        linkedit_dds.append(
+            DDStatement("SYSLIN", DatasetDefinition(OBJECT_DATASET, disposition="SHR"))
+        )
+
+        # SYSLMOD
+        linkedit_dds.append(
+            DDStatement("SYSLMOD", DatasetDefinition(f"{loadlib}({member})"))
+        )
+
+        # SYSPRINT
+        linkedit_dds.append(
+            DDStatement(
+                "SYSPRINT",
+                DatasetDefinition("VREX006.SPOOL(LINKLIST)", normal_disposition="KEEP"),
+            )
+        )
+
+        linkedit_response = mvscmd.execute(pgm="IEWL", dds=linkedit_dds)
+        print(f"Link edit complete with rc: {linkedit_response.rc}")
+        print(linkedit_response)
+
+
+if __name__ == "__main__":
+    compile_cobol(
+        source="VREX006.SRCLIB",
+        member="HI",
+        copylib="VREX006.COPYLIB",
+        loadlib="VREX006.LOADLIB",
+    )

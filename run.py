@@ -1,1 +1,21 @@
-†™–”@©–¤£‰“m—¨@‰”—–™£@”¥¢ƒ”„@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£Ô‰¢¢‰•‡Ô–„¤“…â–¤™ƒ…½†™–”@©–¤£‰“m—¨K©£¨—…¢@‰”—–™£@M@@{@—¨™‰‡ˆ£z@‰‡•–™…­™…—–™£Ô‰¢¢‰•‡Ô–„¤“…â–¤™ƒ…½@@@@Ä£¢…£Ä…†‰•‰£‰–•k@@@@ÄÄâ££…”…•£k]„…†@™¤•M@@@@“–„“‰‚z@¢£™k@@@@—‡”z@¢£™k]z@@@@„„¢z@“‰¢£­ÄÄâ££…”…•£½@~@­½@@@@„„¢K——…•„MÄÄâ££…”…•£MâãÅ×ÓÉÂk@Ä£¢…£Ä…†‰•‰£‰–•M“–„“‰‚k@„‰¢—–¢‰£‰–•~âÈÙ]]]@@@@—™‰•£MÅ§…ƒ¤£‰•‡KKK]@@@@™…¢—–•¢…@~@”¥¢ƒ”„K…§…ƒ¤£…M—‡”~—‡”k@„„¢~„„¢]@@@@—™‰•£M†Å§…ƒ¤£…„@¦‰£ˆ@™ƒz@À™…¢—–•¢…K™ƒĞ]@@@@—™‰•£M™…¢—–•¢…]‰†@mm•”…mm@~~@mm”‰•mmz@@@@™¤•M“–„“‰‚~åÙÅçğğöKÓÖÁÄÓÉÂk@—‡”~ÈÉ]
+from zoautil_py import mvscmd  # pyright: ignore[reportMissingModuleSource]
+from zoautil_py.ztypes import (  # pyright: ignore[reportMissingModuleSource]
+    DatasetDefinition,
+    DDStatement,
+)
+
+
+def run(
+    loadlib: str,
+    pgm: str,
+):
+    dds: list[DDStatement] = []
+    dds.append(DDStatement("STEPLIB", DatasetDefinition(loadlib, disposition="SHR")))
+    print("Executing...")
+    response = mvscmd.execute(pgm=pgm, dds=dds)
+    print(f"Executed with rc: {response.rc}")
+    print(response)
+
+
+if __name__ == "__main__":
+    run(loadlib="VREX006.LOADLIB", pgm="HI")
