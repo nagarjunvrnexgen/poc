@@ -70,7 +70,8 @@ def compile_cobol_from_uss(
     dds.append(
         DDStatement(
             "SYSPRINT",
-            DatasetDefinition("VREX006.SPOOL(COMPLIST)", normal_disposition="KEEP"),
+            DatasetDefinition("VREX006.POC.SPOOL(COMPLIST)", normal_disposition="KEEP"),
+            
         )
     )
 
@@ -143,6 +144,11 @@ def compile_cobol_from_uss(
     dds: Final
 
     compile_response = mvscmd.execute(pgm="IGYCRCTL", dds=dds)
+    with open("compile_response.txt", "w") as f:
+        f.write(f"Standard Output:\n{compile_response.stdout_response}\n")
+        f.write(f"Standard Error:\n{compile_response.stderr_response}\n")
+        f.write(f"Return Code: {compile_response.rc}\n")
+    
     if compile_response.rc not in {0, 4}:
         print(compile_response.stderr_response)
         print(f"Compile error occurred with rc : {compile_response.rc}")
@@ -178,7 +184,7 @@ def compile_cobol_from_uss(
         linkedit_dds.append(
             DDStatement(
                 "SYSPRINT",
-                DatasetDefinition("VREX006.SPOOL(LINKLIST)", normal_disposition="KEEP"),
+                DatasetDefinition("VREX006.POC.SPOOL(LINKLIST)", normal_disposition="KEEP"),
             )
         )
 
@@ -189,8 +195,8 @@ def compile_cobol_from_uss(
 
 if __name__ == "__main__":
     compile_cobol_from_uss(
-        source_path="/u/vrex006/poc/srclib/hi.cbl",
-        member="HI",
-        copylib="VREX006.COPYLIB",
-        loadlib="VREX006.LOADLIB",
+        source_path="/u/vrex006/poc/srclib/emp.cbl",
+        member="EMP",
+        copylib="VREX006.POC.COPYLIB",
+        loadlib="VREX006.POC.LOADLIB",
     )

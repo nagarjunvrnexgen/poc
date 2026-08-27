@@ -18,4 +18,4 @@ def run(
 
 
 if __name__ == "__main__":
-    run(loadlib="VREX006.LOADLIB", pgm="HI")
+    run(loadlib="VREX006.POC.LOADLIB", pgm="EMP")
